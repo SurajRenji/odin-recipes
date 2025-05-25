@@ -7,3 +7,8 @@ Skills learnt:
 -Boilerplate code.
 -Placing anchor tag + list to link homepage to recipes and back.
 -Creating subpages with link, images, headings, ordered lists, and unordered lists.
+
+Next steps:
+Bug to be fixed: Images not functioning properly when opening on username.github.io/repo on internet but links are working fine.
+
+Revamp with CSS.
