@@ -1,0 +1,29 @@
+*{
+    margin-top: 10px;
+}
+.main-title{
+    padding: 10px;
+    background-color:beige;
+    max-width:400px;
+    text-align:center;
+    margin:0 auto;
+
+}
+
+.main-list{
+    background-color: gainsboro;
+    max-width:max-content;
+}
+
+ul{
+    margin:10px;
+}
+
+ul li{
+    box-sizing:border-box;
+    width:150px;
+    height:100px;   
+    padding: 20px;
+    color:black;
+    text-align: left;
+}
